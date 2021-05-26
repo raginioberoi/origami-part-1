@@ -1,0 +1,36 @@
+
+body {
+  background-image: url('https://www.artnews.com/wp-content/uploads/2020/05/shutterstock_1100575436.jpg?w=2000');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: center;
+}
+h1{
+  font-family:Georgia;
+}
+h1{
+  color: blueviolet;
+}
+h1:hover{
+
+  background-color:white;
+}
+p{
+  color: blue;
+}
+p{
+  font-family:fantasy;
+}
+li{
+  color: blueviolet;
+}
+li{
+  font-family:fantasy
+}
+
+
+
+
+
+
